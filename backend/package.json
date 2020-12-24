@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "express-async-handler": "^1.1.4",
+    "mongoose": "^5.11.8"
+  }
+}
